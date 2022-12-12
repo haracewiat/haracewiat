@@ -1,4 +1,4 @@
-### Hi there 👋
+![Leetcode Stats](https://leetcard.jacoblin.cool/haracewiat?border=0&radius=20&ext=heatmap)
 
 <!--
 **haracewiat/haracewiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
